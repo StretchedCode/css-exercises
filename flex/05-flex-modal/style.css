@@ -63,4 +63,9 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+  flex-grow: 0;
+}
+
+.center{
+  margin-left: 45px;
 }

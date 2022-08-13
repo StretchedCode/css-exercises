@@ -10,6 +10,15 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+}
+
+.information{
+  display: flex;
+  
+
+
+
 }
 
 /* do not edit this footer */

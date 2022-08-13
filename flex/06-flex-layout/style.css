@@ -29,6 +29,12 @@ input {
 ul {
   display: flex;
   flex-direction: row;
+  list-style: none;
+  
+}
+
+a {
+  margin: 10px;
 }
 
 .header{

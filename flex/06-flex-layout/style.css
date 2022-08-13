@@ -25,3 +25,13 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.header{
+display: flex;
+justify-content: space-between;
+}
